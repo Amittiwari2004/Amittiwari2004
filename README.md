@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React_Project**
 
-- 💬 Ask me about **JQuery,JavaScript,Bootstrap,React**
+- 💬 Ask me about **JavaScrip,React,Nodejs**
 
 - 📫 How to reach me **amittiwari00512@gmail.com**
 
